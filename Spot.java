@@ -1,11 +1,4 @@
 package chessproject;
-
-/** [Client.java]
- * Represents each person joining the chess program
- * Connects to the server and has the ability to play a chess game
- * @author Peter Gao, Katherine Liu
- * @version 1.0 Jan 25, 2022
- */
 import java.awt.Color;
 import java.awt.Graphics;
 
